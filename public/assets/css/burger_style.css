@@ -1,0 +1,40 @@
+body {
+    background-color: blue;
+    color: rgb(219, 161, 34);
+}
+
+li, #burg {
+    padding-top: 5px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
+
+}
+
+h1, h2, label {
+    font-family: 'Bangers', cursive;
+}
+
+button {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+.burgers {
+    color: rgb(189, 141, 141);
+}
+
+.fa-hamburger {
+    color: orange;
+}
+
+.notdev {
+    color: rgb(24, 192, 24);
+}
+
+.devrd {
+    color: rgb(199, 52, 52);
+    padding-left: 100px;
+}
